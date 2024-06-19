@@ -24,7 +24,7 @@
 |PF01509|TruB_N|XP_002997322.1|
 |PF15440|THRAP3_BCLAF1|XP_002900404.1|
 
-В файле [hmmer_res.txt](https://github.com/egnees/bioinf2_project/blob/master/files/hmmer_res.txt) записано отображение, в котором можно видеть названия и идентификаторы. Затем локацию генов можно найти в файле [genomic.gff](https://github.com/egnees/bioinf2_project/blob/master/files/genomic.gff)
+В файле [hmmer_res.txt](https://github.com/egnees/bioinf2_project/blob/master/files/hmmer_res.txt) записано отображение, в котором можно видеть названия и идентификаторы. Затем локацию генов можно найти в файле [genomic.gff](https://github.com/egnees/bioinf2_project/blob/master/files/genomic.gff.zip)
 
 Используя тетрадку [find](https://github.com/egnees/bioinf2_project/blob/master/notebooks/find.ipynb) была найдена следующая информация:
 
